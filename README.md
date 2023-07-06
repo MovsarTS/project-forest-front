@@ -83,37 +83,3 @@ npm start
     <img alt="Tsokaev" src="https://img.shields.io/badge/-Movsar_Tsokaev-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
-
----
-
-### В этом проекте я выполнял следующие задачи:
-
-- [x] Сверстал страницу админа
-- [x] Сделал авторизацию                                                                                                                             
-- [x] Организовал роутинг-маршрутизацию внутри проекта
-- [x] Сделал возможность оценки комментария
-- [x] Сделал возможность оставления комментария
-- [x] Сделал возможность принятия заявки у клиента
-- [x] Сделал анимации на странице о нас
-                                                                                                                               
----
-
-Установил следующие библиотеки в зависимости:
-
-- react-redux
-- react-toastify
-- react-router-dom
-- react-loader-spinner
-- prop-types
-- react-circular-progressbar
-
----
-
-### Для выполнения поставленных задач я использовал следующие библиотеки:
-
-- redux, redux-toolkit - чтобы создавать асинхронные экшены
-- react-router-dom - для роутинга
-- aos - для анимаций
-- react-loader-spinner - для прелоадеров
-
----
